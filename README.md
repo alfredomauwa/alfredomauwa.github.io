@@ -3,7 +3,7 @@
 <div id="particles">
   <div class="overlay"></div>
   <div id="intro">
-    <h1>3D Animated<br>background</h1>
+    <h1>Learn 3D Animation<br>background</h1>
     <p>Background particle systems</p>
   </div>
 </div>
